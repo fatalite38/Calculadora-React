@@ -22,9 +22,11 @@ Uma calculadora simples desenvolvida em React, com funcionalidades básicas de a
    ```bash
    git clone https://github.com/seu-usuario/Calculadora-React.git
 2. Instale as dependências:
+   ```bash
    yarn install
 
-3. Inicie o projeto:
+4. Inicie o projeto:
+    ```bash
    yarn start
 
 ## Uso
