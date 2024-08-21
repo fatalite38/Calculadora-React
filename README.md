@@ -16,18 +16,23 @@ Uma calculadora simples desenvolvida em React, com funcionalidades básicas de a
 - JavaScript
 - CSS
 
-## Instalação
+## Gerenciamento de Pacotes com Yarn
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Calculadora-React.git
-2. Instale as dependências:
-   ```bash
-   yarn install
+Este projeto utiliza o **Yarn** para o gerenciamento de pacotes.
 
-4. Inicie o projeto:
-    ```bash
+### Como Iniciar um Projeto React com Yarn
+1. Crie um novo projeto React**:
+   ```bash
+   yarn create react-app nome-do-projeto
+   
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd nome-do-projeto
+
+3. Inicie o servidor de desenvolvimento:
+   ```bash
    yarn start
+
 
 ## Uso
 - Abra o navegador e acesse http://localhost:3000
